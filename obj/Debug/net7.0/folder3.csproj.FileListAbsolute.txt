@@ -1,0 +1,15 @@
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.csproj.AssemblyReference.cache
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.AssemblyInfoInputs.cache
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.AssemblyInfo.cs
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.csproj.CoreCompileInputs.cache
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/bin/Debug/net7.0/folder3
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/bin/Debug/net7.0/folder3.deps.json
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/bin/Debug/net7.0/folder3.runtimeconfig.json
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/bin/Debug/net7.0/folder3.dll
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/bin/Debug/net7.0/folder3.pdb
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.dll
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/refint/folder3.dll
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.pdb
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/folder3.genruntimeconfig.cache
+/Users/forsyte12316gmail.com/GB_Cs_DZ_7/folder3/obj/Debug/net7.0/ref/folder3.dll
